@@ -1,0 +1,36 @@
+<!-- Ajout Mapping underground Sud -->
+	<group name="Land_Mil_Barracks_Round" pos="8801.561523 183.443710 2923.167725" rpy="0.000000 0.000000 -11.499995" a="101.5"/>
+	<group name="Land_Underground_Stairs_Block_Terminator" pos="8784.209961 182.188934 2895.631592" rpy="0.000000 0.000000 166.999939" a="-76.9999"/>
+	<group name="Land_Underground_Stairs_Start" pos="8784.208984 177.687073 2895.628418" rpy="0.000000 0.000000 166.999939" a="-76.9999"/>
+	<group name="Land_Underground_Floor_Comms" pos="8792.464844 177.640854 2910.234863" rpy="0.000000 0.000000 167.799988" a="-77.8"/>
+	<group name="Land_Mil_Barracks_Round" pos="8801.544922 178.455002 2923.169922" rpy="0.000000 0.000000 -11.799993" a="101.8"/>
+	<group name="Land_Underground_Stairs_Block_Terminator" pos="8778.959961 177.195999 2920.250000" rpy="0.000000 0.000000 -12.099998" a="102.1"/>
+	<group name="Land_Underground_Stairs_Block" pos="8778.958008 172.200256 2920.241699" rpy="0.000000 0.000000 -12.099998" a="102.1"/>
+	<group name="Land_Underground_Stairs_Block_Corridor" pos="8778.966797 167.148407 2920.243652" rpy="0.000000 0.000000 -12.100000" a="102.1"/>
+	<group name="Land_Underground_Floor_Crew" pos="8792.423828 167.618622 2910.343018" rpy="0.000000 0.000000 168.000000" a="-78"/>
+	<group name="Land_Underground_Stairs_Block" pos="8778.958008 162.164063 2920.241699" rpy="0.000000 0.000000 -12.099998" a="102.1"/>
+	<group name="Land_Underground_Stairs_Block_Corridor" pos="8778.966797 157.112213 2920.243652" rpy="0.000000 0.000000 -12.100000" a="102.1"/>
+	<group name="Land_Underground_Floor_Comms" pos="8770.602539 157.560471 2905.724365" rpy="0.000000 0.000000 -12.100000" a="102.1"/>
+	<group name="Land_Underground_Stairs_Start" pos="8778.971680 152.610977 2920.244629" rpy="0.000000 0.000000 -12.099998" a="102.1"/>
+	<group name="Land_Underground_Stairs_Block_Terminator" pos="8786.429688 152.035004 2910.649902" rpy="0.000000 0.000000 77.900002" a="12.1"/>
+	<group name="Land_Underground_Stairs_Block" pos="8786.422852 147.034790 2910.658691" rpy="0.000000 0.000000 78.000000" a="12"/>
+	<group name="Land_Underground_Stairs_Start" pos="8786.411133 142.504227 2910.671143" rpy="0.000000 0.000000 78.000000" a="12"/>
+	<group name="Land_Underground_Stairs_Block" pos="8786.422852 147.034790 2910.658691" rpy="0.000000 0.000000 78.000000" a="12"/>
+	<group name="Land_Underground_Entrance" pos="8813.227539 207.835999 2932.237793" rpy="0.000000 0.000000 168.034058" a="-78.0341"/>
+	<group name="Land_Underground_Stairs_Block_Terminator" pos="8791.061523 207.282028 2913.796631" rpy="0.000000 0.000000 -102.999992" a="-167"/>
+	<group name="Land_Underground_Stairs_Block" pos="8791.080078 202.295975 2913.802979" rpy="0.000000 0.000000 -102.999992" a="-167"/>
+	<group name="Land_Underground_Floor_Comms" pos="8805.794922 207.726257 2905.681152" rpy="0.000000 0.000000 -102.999992" a="-167"/>
+	<group name="Land_Underground_Stairs_Block_Corridor" pos="8791.085938 197.246735 2913.798340" rpy="0.000000 0.000000 -102.999992" a="-167"/>
+	<group name="Land_Underground_Stairs_Block_Terminator" pos="8778.869141 197.318878 2920.187256" rpy="0.000000 0.000000 -13.000000" a="103"/>
+	<group name="Land_Underground_Stairs_Block" pos="8778.867188 192.327972 2920.174316" rpy="0.000000 0.000000 -13.000000" a="103"/>
+	<group name="Land_Tisy_RadarPlatform_Top" pos="8808.259766 200.458298 2958.508545" rpy="0.000000 0.000000 -12.000000" a="102"/>
+	<group name="Wreck_Mi8" pos="8808.900391 209.663086 2958.040039" rpy="1.000000 0.000000 90.499985" a="-0.499985"/>
+	<group name="Land_Underground_Storage_Big" pos="8346.007813 11.839290 3070.842773" rpy="-0.000000 -0.000000 77.000000" a="13"/>
+	<group name="Land_Underground_Storage_POX2" pos="8765.296875 142.412827 2905.879150" rpy="0.000000 0.000000 -101.829979" a="-168.17"/>
+	<group name="Land_Underground_Stairs_Block" pos="8791.089844 192.268448 2913.799072" rpy="0.000000 0.000000 -102.999992" a="-167"/>
+	<group name="Land_Underground_Stairs_Start" pos="8791.096680 187.733459 2913.801758" rpy="0.000000 0.000000 -102.999992" a="-167"/>
+	<group name="Land_Underground_Storage_Big" pos="8806.327148 187.629959 2919.484131" rpy="0.000000 0.000000 77.000000" a="13"/>
+	<group name="Land_Underground_Stairs_Block" pos="8778.911133 187.310822 2920.168213" rpy="0.000000 0.000000 -12.999995" a="103"/>
+	<group name="Land_Underground_Stairs_Start" pos="8778.905273 182.788788 2920.159180" rpy="0.000000 0.000000 -12.999995" a="103"/>
+	<group name="Land_Underground_Floor_Comms" pos="8792.464844 182.634018 2910.234863" rpy="0.000000 0.000000 167.799988" a="-77.8"/>
+<!-- FIN Ajout Mapping underground Sud -->
