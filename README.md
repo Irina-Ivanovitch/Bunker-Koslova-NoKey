@@ -1,4 +1,4 @@
-# Bunker-Koslova-No-Key- (bêta)
+# Bunker-Koslova-No-Key
 
 Mapping d'un bunker underground sur Chernarus pour PC.
 
