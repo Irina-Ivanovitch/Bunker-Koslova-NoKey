@@ -6,7 +6,7 @@ Avant la pandémie l'accès se faisait en hélicoptère mais depuis il n'est plu
 
 Il y a plus de 6 niveaux dont deux ne sont pas d'accès évident.
 
-L'ouverture de la porte n'a pas besoin de clefs.
+L'ouverture ne necessite pas de carte ni de clef, une version avec carte d'acces vous est proposer plus loin.
 
 1- Vous devez imperativement installer le mod DayzEditor Loader sur votre serveur
 
@@ -24,7 +24,7 @@ Before the pandemic, access was by helicopter, but since then it is only accessi
 
 There are more than 6 levels of which two are not obvious access.
 
-Opening the door doesn’t need keys.
+The opening does not require a card or a key, a version with access card is offered to you later.
 
 1- You must imperatively install the DayzEditor Loader mod on your server
 
