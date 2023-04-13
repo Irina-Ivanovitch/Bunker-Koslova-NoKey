@@ -21,26 +21,6 @@
 				<point pos="-2.843350 0.012781 -4.478077" range="1" height="1" /> 
 			</container>
 		</group>
-		<group name="Land_Underground_WaterReservoir" lootmax="10">
-				<value name="Tier1" />
-				<usage name="Military" />
-				<container name="lootFloor" lootmax="10">
-						<category name="containers" />
-						<category name="clothes" />
-						<tag name="floor" />
-						<tag name="ground" />
-				<point pos="5.281642 0.058139 -11.670774" range="1" height="1" /> 
-				<point pos="5.407360 0.067762 -12.646793" range="1" height="1" /> 
-				<point pos="0.492662 -4.019844 -13.074304" range="1" height="1" /> 
-				<point pos="-3.291999 -4.396219 -12.481794" range="1" height="1" /> 
-				<point pos="-5.484015 0.036429 -12.363295" range="1" height="1" /> 
-				<point pos="-5.487310 0.068924 -13.119361" range="1" height="1" /> 
-				<point pos="-4.243413 0.040000 11.676539" range="1" height="1" /> 
-				<point pos="-4.659022 -0.002073 8.138501" range="1" height="1" /> 
-				<point pos="3.430732 0.039999 11.790996" range="1" height="1" /> 
-				<point pos="4.017491 0.789505 5.800102" range="1" height="1" /> 
-			</container>
-		</group>
 		<group name="Land_Underground_Stairs_Start" lootmax="10">
 				<value name="Tier1" />
 				<usage name="Military" />
@@ -148,7 +128,6 @@
 		</group>
 		<group name="Land_Underground_Entrance" lootmax="10">
 				<usage name="Military" />
-				<usage name="Police" />
 				<value name="Tier1" />
 				<container name="lootFloor" lootmax="10">
 						<category name="containers" />
@@ -165,32 +144,6 @@
 						<point pos="1.738919 0.585022 -3.576905" range="0.232499" height="0.369995" />
 						<point pos="1.760348 1.085022 -3.590840" range="0.268154" height="0.369995" />
 						<point pos="1.768126 1.585022 -3.608747" range="0.232227" height="0.294983" />
-				</container>
-		</group>
-		<group name="Land_Underground_WaterMaintenance" lootmax="10">
-				<usage name="Military" />
-				<container name="lootFloor" lootmax="10">
-						<category name="tools" />
-						<category name="containers" />
-						<tag name="floor" />
-						<tag name="ground" />
-						<point pos="-5.518433 0.880005 -4.856628" range="0.271875" height="0.679688" />
-						<point pos="-1.832886 0.927704 0.083557" range="0.382684" height="1.023438" />
-						<point pos="-1.829590 0.927704 -1.278686" range="0.409375" height="1.023438" />
-						<point pos="-5.385986 0.879700 -4.307982" range="0.134375" height="0.335938" />
-						<point pos="-1.809936 0.927612 -5.396789" range="0.375000" height="0.937500" flags="16" />
-						<point pos="-1.851930 0.927612 -6.073730" range="0.303242" height="0.864136" flags="16" />
-						<point pos="-5.420656 0.960114 -6.768674" range="0.237500" height="0.593750" />
-						<point pos="-5.576906 0.962830 -5.566283" range="0.168750" height="0.421875" />
-						<point pos="-5.325073 1.584381 0.260011" range="0.237500" height="0.295013" />
-						<point pos="-5.392701 1.084381 0.348389" range="0.237500" height="0.369995" />
-						<point pos="-5.330444 0.584381 0.335145" range="0.266535" height="0.369995" />
-						<point pos="-5.246704 0.084381 0.317993" range="0.168750" height="0.369995" />
-						<point pos="-4.149292 0.083557 1.314271" range="0.271875" height="0.369995" />
-						<point pos="-4.480347 0.583557 1.349976" range="0.271875" height="0.369995" />
-						<point pos="-3.902344 0.583557 1.306946" range="0.237500" height="0.369995" />
-						<point pos="-3.935425 1.083557 1.349550" range="0.265401" height="0.369995" />
-						<point pos="-4.371338 1.583557 1.261109" range="0.203125" height="0.295013" />
 				</container>
 		</group>
 		<group name="Land_Underground_Storage_POX2" lootmax="10">
