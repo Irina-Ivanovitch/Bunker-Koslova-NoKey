@@ -16,6 +16,11 @@ L'ouverture ne necessite pas de carte ni de clef, une version avec carte d'acces
 
 4- Le fichier BunkerNokey.dze vous permet via DayzEditor Loader de mettre ce mapping sur votre serveur.
 
+5- Le répertoire Bonus Triggers, vous permet en rajoutant le fichier cfgundergroundtriggers.json de plonger votre bunker dans le noir ( jv n ou lampe obligatoires), il suffit de copier toutes les lignes du fichier et de les coller dans votre propre fichier cfgundergroundtriggers.json .
+
+Cela a étais rendus possible grâce à mon amis Alpha Bravo --> http://steamcommunity.com/profiles/76561198039591861
+
+
 /////////////////////////////////////////////////////////////////////////////////////////////////////
 
 Mapping an underground bunker on Chernarus for PC.
@@ -32,7 +37,12 @@ The opening does not require a card or a key, a version with access card is offe
 
 3- The mapgroupproto.xml file adds loot points in underground buildings that do not exist in vanilla, just copy all the lines of the file and paste them into your own mapgroupproto.xml file
 
-
 4- The BunkerNokey.dze file allows you via DayzEditor Loader to put this mapping on your server.
+
+5- The Bonus Triggers directory, allows you to add the file cfgundergroundtriggers.json to plunge your bunker in the dark ( jv n or lamp required), just copy all the lines of the file and paste them into your own file cfgundergroundtriggers.json .
+
+It was made possible thanks to my friend Alpha Bravo --> http://steamcommunity.com/profiles/76561198039591861
+
+
 
 
